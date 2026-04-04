@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Data Structure and Alghorithms, Golang.
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/coleYab](https://www.github.com/coleYab)
+- 👨‍💻 All of my projects are available at [https://www.github.com/shebaww](https://www.github.com/shebaww)
 
 - 📫 Reach to me at yabume123@gmail.com
 
