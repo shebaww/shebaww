@@ -73,14 +73,14 @@
 |---------|-----------|-----------|
 | **Andinet Newspaper** | React, Firebase, imgBB | [View](https://andinet-newspaper.netlify.app) |
 | **Business Club Website** | HTML, CSS, JS | [View](https://shebaww.github.io/Business_Club_Website) |
-| **iPod File Converter** | Python / C++ | [GitHub Repo](https://github.com/shebaww/Ipod-Converter) |
-| **Portfolio Website** | React, Tailwind, Three.js | [View](https://nahomtmariam.com) |
+| **iPod File Converter** | Bash | [GitHub Repo](https://github.com/shebaww/Ipod-Converter) |
+| **Portfolio Website** | React, TypeScript | [View](https://nahomtmariam.com) |
 
 ---
 
 ## 📈 Algorithmic Trading
 
-> I build and backtest quantitative trading strategies using Python and C++. Passionate about market microstructure and statistical arbitrage.
+> I build and backtest quantitative trading strategies using Python. Passionate about market microstructure and statistical arbitrage.
 
 ---
 
