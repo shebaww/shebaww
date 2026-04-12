@@ -29,7 +29,6 @@
 
 ### What I know Well
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,7 +39,8 @@
 ![Vim](https://img.shields.io/badge/vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Quickshell QML](https://img.shields.io/badge/qml-%2344B4B4.svg?style=for-the-badge&logo=qt&logoColor=white)
 ![SEO](https://img.shields.io/badge/seo-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-### What I plan on learning
+### What I plan on learning or plan on Improving
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoCol    or=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
